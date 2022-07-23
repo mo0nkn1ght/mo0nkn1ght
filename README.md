@@ -29,7 +29,7 @@ The Official Profile of the mo0nkn1ght!
 
 - Please check out the Star System Labs <a href="https://mo0nkn1ght.gitbook.io/mo0nkn1ght/">Git Book</a> for details on our project!
 
-- <a href="https://starsystemlabs.com">Star System Labs</a>
+- <a href="https://starsystemlabs.com">Official Star System Labs Website</a>
 
 - <a href="https://twitter.com/StarSystem_Labs"> <img align="center" alt="Star System Labs Twitter" width="30px" src="https://github.com/mo0nkn1ght/mo0nkn1ght/blob/main/assets/twitter.png" />Official Star System Labs Twitter</a>
 
