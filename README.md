@@ -13,7 +13,7 @@
 
 The Official Profile of the mo0nkn1ght! 
 
-<img align='center' width="100px" src="https://raw.githubusercontent.com/mo0nkn1ght/mo0nkn1ght/master/assets/mo0nkn1ght.png" alt="mo0nkn1ght">
+<img align='center' width="100px" src="https://github.com/mo0nkn1ght/mo0nkn1ght/blob/main/assets/mo0nkn1ght.png" alt="mo0nkn1ght">
 
 - Lead Developer of Star System Labs!
 
@@ -29,9 +29,9 @@ The Official Profile of the mo0nkn1ght!
 
 - Please check out the Star System Labs <a href="https://mo0nkn1ght.gitbook.io/mo0nkn1ght/">Git Book</a> for details on our project!
 
-- <a href="https://starsystemlabs.com">starsystemlabs.com</a>
+- <a href="https://starsystemlabs.com"> <img align="center" alt="Star System Labs Website" width="30px" src="https://github.com/mo0nkn1ght/mo0nkn1ght/blob/main/assets/moobase.jpg" />starsystemlabs.com</a>
 
-- <a href="https://twitter.com/StarSystem_Labs"> <img align="center" alt="Star System Labs Twitter" width="30px" src="https://raw.githubusercontent.com/mo0nkn1ght/mo0nkn1ght/master/assets/twitter.svg" />Official Star System Labs Twitter</a>
+- <a href="https://twitter.com/StarSystem_Labs"> <img align="center" alt="Star System Labs Twitter" width="30px" src="https://github.com/mo0nkn1ght/mo0nkn1ght/blob/main/assets/twitter.png" />Official Star System Labs Twitter</a>
 
 
 <a href="https://github.com/mo0nkn1ght/mo0nkn1ght">
