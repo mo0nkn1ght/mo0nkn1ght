@@ -11,7 +11,7 @@
 <a href="https://ethereum.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="qt" width="40" height="40"/> </a> 
 <a href="https://ethereum.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="qt" width="40" height="40"/> </a></p>
 
-The Official Profile of the mo0nkn1ght! 
+The Official Profile of mo0nkn1ght! 
 
 <img align='center' width="100px" src="https://github.com/mo0nkn1ght/mo0nkn1ght/blob/main/assets/mo0nkn1ght.png" alt="mo0nkn1ght">
 
