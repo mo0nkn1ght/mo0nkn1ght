@@ -13,7 +13,7 @@
 
 The Official Profile of mo0nkn1ght! 
 
-<img align='center' width="100px" src="https://github.com/mo0nkn1ght/mo0nkn1ght/blob/main/assets/mo0nkn1ght.png" alt="mo0nkn1ght">
+<img align='center' width="100px" src="https://github.com/mo0nkn1ght/mo0nkn1ght/blob/main/assets/Moonknight-modified.png" alt="mo0nkn1ght">
 
 - Lead Developer of Star System Labs!
 
