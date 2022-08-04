@@ -6,8 +6,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=mo0nkn1ght" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mo0nkn1ght" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=calm&locale=en&hide_border=false&username=mo0nkn1ght" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=calm&hide_border=false&username=mo0nkn1ght" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -39,12 +39,21 @@
 
 ###
 
-<p align="left">- Lead Developer of Star System Labs!<br><br>- A WLUNA solution? Terra Labs has dropped many users who had invest much of their hard earned money, leaving millions in liquidity behind. Currently with the increase in LUNC supply the value has been diminished and a 1.25% burn wont solve the problem within our lifetime. Star System Labs bring a solution for this community to bolster itself up, giving every WLUNA and LUNAC holder the ability to take action instead of get stuck behind red tape! With an aggressive burn rate and other robust mechanics built to support the value and burning of Wrapped Luna we as a community can rise out of the ashes like a pheonix.<br><br>- Moonbase [MNBASE] Token<br><br>- Meteor [METEOR] Token<br><br>- Wrapped Luna Burn Bot<br><br>- Community Governance Token TBD ( Used for voting to manage Star System Vault )<br><br>- <a href="https://mo0nkn1ght.gitbook.io/mo0nkn1ght/">Star System Labs Documentation</a><br><br>- <a href="https://starsystemlabs.com">Official Star System Labs Website</a><br><br>- <a href="https://twitter.com/StarSystem_Labs"> <img align="center" alt="Star System Labs Twitter" width="30px" src="https://github.com/mo0nkn1ght/mo0nkn1ght/blob/main/assets/twitter.png" />Official Star System Labs Twitter</a></p>
+<p align="left">- Lead Developer of Star System Labs!<br><br>- A WLUNA solution? Terra Labs has dropped many users who had invest much of their hard earned money, leaving millions in liquidity behind. Currently with the increase in LUNC supply the value has been diminished and a 1.25% burn wont solve the problem within our lifetime. Star System Labs bring a solution for this community to bolster itself up, giving every WLUNA and LUNAC holder the ability to take action instead of get stuck behind red tape! With an aggressive burn rate and other robust mechanics built to support the value and burning of Wrapped Luna we as a community can rise out of the ashes like a pheonix.<br><br>- Moonbase [MNBASE] Token<br><br>- Meteor [METEOR] Token<br><br>- Wrapped Luna Burn Bot<br><br>- Community Governance Token TBD ( Used for voting to manage Star System Vault )<br><br>- <a href="https://mo0nkn1ght.gitbook.io/mo0nkn1ght/">Star System Labs Documentation</a><br><br>- <a href="https://starsystemlabs.com">Official Star System Labs Website</a><br><br></p>
 
 ###
 
-<br clear="both">
-
 <img href="https://raw.githubusercontent.com/mo0nkn1ght/mo0nkn1ght/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <a href="https://twitter.com/StarSystem_Labs" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://t.me/starsystemlabs" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
 
 ###
