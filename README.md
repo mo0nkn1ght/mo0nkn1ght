@@ -17,7 +17,7 @@ The Official Profile of mo0nkn1ght!
 
 - Lead Developer of Star System Labs!
 
-- Why make a WLUNA solution? Terra Labs has dropped many users who had invest much of their hard earned money, leaving millions in liquidity behind. Currently with the increase in LUNC supply the value has been diminished and a 1.25% burn wont solve the problem within our lifetime. Star System Labs bring a solution for this community to bolster itself up, giving every WLUNA and LUNAC holder the ability to take action instead of get stuck behind red tape! With an aggressive burn rate and other robust mechanics built to support the value and burning of Wrapped Luna we as a community can rise out of the ashes like a pheonix.
+- A WLUNA solution? Terra Labs has dropped many users who had invest much of their hard earned money, leaving millions in liquidity behind. Currently with the increase in LUNC supply the value has been diminished and a 1.25% burn wont solve the problem within our lifetime. Star System Labs bring a solution for this community to bolster itself up, giving every WLUNA and LUNAC holder the ability to take action instead of get stuck behind red tape! With an aggressive burn rate and other robust mechanics built to support the value and burning of Wrapped Luna we as a community can rise out of the ashes like a pheonix.
 
 - Moonbase [MNBASE] Token
 
@@ -27,7 +27,7 @@ The Official Profile of mo0nkn1ght!
 
 - Community Governance Token TBD ( Used for voting to manage Star System Vault )
 
-- Please check out the Star System Labs <a href="https://mo0nkn1ght.gitbook.io/mo0nkn1ght/">Git Book</a> for details on our project!
+- <a href="https://mo0nkn1ght.gitbook.io/mo0nkn1ght/">Star System Labs Documentation</a>
 
 - <a href="https://starsystemlabs.com">Official Star System Labs Website</a>
 
@@ -36,8 +36,8 @@ The Official Profile of mo0nkn1ght!
 
 <a href="https://github.com/mo0nkn1ght/mo0nkn1ght">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo0nkn1ght&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo0nkn1ght&theme=radical" />
 </a>
 <a href="https://github.com/mo0nkn1ght/mo0nkn1ght">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mo0nkn1ght&show_icons=true&theme=gruvbox&line_height=40&count_private=true&include_all_commits=true" alt="mo0nkn1ght github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mo0nkn1ght&show_icons=true&theme=radical&line_height=40&count_private=true&include_all_commits=true" alt="mo0nkn1ght github stats" />
 </a>
