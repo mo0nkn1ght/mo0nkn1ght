@@ -68,7 +68,3 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/mo0nkn1ght/mo0nkn1ght/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
