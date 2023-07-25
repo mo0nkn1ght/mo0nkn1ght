@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=mo0nkn1ght&label=Profile%20views&color=0e75b6&style=plastic)
 ![](https://img.shields.io/github/last-commit/mo0nkn1ght/mo0nkn1ght?style=plastic)
-![](https://img.shields.io/github/search/mo0nkn1ght/mo0nkn1ght/mo0nkn1ght?style=plastic)
 ![](https://img.shields.io/github/directory-file-count/mo0nkn1ght/mo0nkn1ght?style=plastic)
 ![](https://img.shields.io/github/languages/code-size/mo0nkn1ght/mo0nkn1ght?style=plastic)
 
@@ -60,7 +59,7 @@
 
 ###
 
-<p align="left">- Lead Developer of Star System Labs!<br><br>- A WLUNA solution? Terra Labs has dropped many users who had invest much of their hard earned money, leaving millions in liquidity behind. Currently with the increase in LUNC supply the value has been diminished and a 1.25% burn wont solve the problem within our lifetime. Star System Labs brings a solution for this community to bolster itself up, giving every WLUNA and LUNAC holder the ability to take action instead of get stuck behind red tape! With an aggressive burn rate and other robust mechanics built to support the value and burning of Wrapped Luna we as a community can rise out of the ashes like a pheonix.<br><br>- Moonbase [MNBASE] Token<br><br>- Meteor [METEOR] Token<br><br>- Otto the AutoBot - Star System Labs Wrapped Luna Burn Bot<br><br>- Community Governance Token TBD ( Used for voting to manage Star System Vault )<br><br>- <a href="https://mo0nkn1ght.gitbook.io/mo0nkn1ght/">Star System Labs Documentation</a><br><br>- <a href="https://starsystemlabs.com">Official Star System Labs Website</a><br><br></p>
+<p align="left">- PrimordialPePe [PPEPE] Token<br><br>- StarDustDividends [SDIV] Token<br><br>- <a href="https://mo0nkn1ght.gitbook.io/mo0nkn1 ght/">Star System Labs Documentation</a><br><br><a 
 
 ###
 
